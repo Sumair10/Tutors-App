@@ -1,0 +1,76 @@
+{
+  "student": [
+    {
+      "studentName": "sumair",
+      "studentEmail": "sumair@gmail.com",
+      "studentContact": "03402745818",
+      "studentAddress": "north karachi",
+      "studentClass": 5,
+      "studentSubject": "maths",
+      "id": 1
+    },
+    {
+      "studentName": "zain",
+      "studentEmail": "zain@gmail.com",
+      "studentContact": "03402744232",
+      "studentAddress": "north nazimabad",
+      "studentClass": 8,
+      "studentSubject": "science",
+      "id": 2
+    },
+    {
+      "studentName": "ayan",
+      "studentEmail": "ayan@gmail.com",
+      "studentContact": "034432745818",
+      "studentAddress": "karachi central",
+      "studentClass": 10,
+      "studentSubject": "biology",
+      "id": 3
+    },
+    {
+      "studentName": "wdwd",
+      "studentEmail": "soldbyakhtar@gmail.com",
+      "studentContact": "6474093341",
+      "studentAddress": "Markham , Ontario , canada",
+      "studentClass": "dw",
+      "studentSubject": "wdw",
+      "id": 4
+    },
+    {
+      "studentName": "sasa",
+      "studentEmail": "soldbyakhtaasr@gmail.com",
+      "studentContact": "6474093341",
+      "studentAddress": "Markham , Ontario , canada",
+      "studentClass": "asas",
+      "studentSubject": "asa",
+      "id": 5
+    },
+    {
+      "studentName": "Akhtar Shaikh",
+      "studentEmail": "soasasldbyakhtar@gmail.com",
+      "studentContact": "6474093341",
+      "studentAddress": "Markham , Ontario , canada",
+      "studentClass": "asas",
+      "studentSubject": "asa",
+      "id": 6
+    },
+    {
+      "studentName": "sw",
+      "studentEmail": "a@gmail.com",
+      "studentContact": "832",
+      "studentAddress": "ssijd",
+      "studentClass": "ijijii",
+      "studentSubject": "iji",
+      "id": 7
+    },
+    {
+      "studentName": "ndfne",
+      "studentEmail": "qq@gmail.com",
+      "studentContact": "bjb",
+      "studentAddress": "jbj",
+      "studentClass": "jbjb",
+      "studentSubject": "jbj",
+      "id": 8
+    }
+  ]
+}
